@@ -1,7 +1,7 @@
 <h1 align="center">⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
 <h1 align="center"> Hello ٩(^ᗜ^ )و ´-</h1>
 <h1 align="center">⌞ ✧ I am Law ✧⌝</h1> 
-<p align="center"> A first-year Bachelor of Science in Computer Science student in Pamantansan ng Lungsod ng Muntinlupa, who strives to learn and improve in the programming world.</p>
+<p align="center"> A second-year Bachelor of Science in Computer Science student in Pamantansan ng Lungsod ng Muntinlupa, who strives to learn and improve in the programming world.</p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -30,3 +30,4 @@
     <li>MySQL</li>
     <li>and some web3 tools like Solana, Hardhat, and Typescript during my free time ;></li>
   </ul>
+
