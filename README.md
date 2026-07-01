@@ -32,7 +32,7 @@ Stack
 
 <div align="center">
 Languages
-  
+
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6E7BFF" />
