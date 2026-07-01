@@ -20,7 +20,7 @@ definitelynotlaw
 > status    : compiling...
 ```
 
-<br>
+<br style="justify">
 
 ## Overview
 
@@ -33,12 +33,14 @@ Second-year Computer Science student building toward systems that hold up under 
 <div align="left">
 
 **Languages**
+
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=6E7BFF" />
 
 **Frontend**
+
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=6E7BFF" />
@@ -46,6 +48,7 @@ Second-year Computer Science student building toward systems that hold up under 
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=6E7BFF" />
 
 **Infrastructure**
+
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=6E7BFF" />
