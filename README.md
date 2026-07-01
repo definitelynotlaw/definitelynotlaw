@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6E7BFF&center=true&vCenter=true&width=650&lines=Architecting+systems%2C+not+just+code.;Strategy+over+noise.;Building+in+silence.+Shipping+with+precision." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6E7BFF&center=true&vCenter=true&width=650&lines=Architecting+systems%2C+not+just+code.;Strategy+over+noise.;Building+in+silence.+Shipping+with+precision.+See it through the end." alt="Typing SVG" />
 
 </div>
 
@@ -9,21 +9,22 @@
 ```
 definitelynotlaw
 ```
+
+</div>
+
 ```
 > Law
-> role      : 3rd year BS Computer Science, PLMun
+> role      : 3rd Year, BS Computer Science, PLMun 
 > mode      : systems-first, minimal-noise
 > currently : mapping curriculum as a dependency graph
 > status    : compiling...
 ```
 
-</div>
-
 <br>
 
 ## Overview
 
-Second-year Computer Science student building toward systems that hold up under scrutiny — coursework, side projects, and community involvement all pointed the same direction. Hands-on with smart contract fundamentals through the Core Connect Bootcamp, cloud infrastructure through the AWS Skill Builder Group - Tempest, and active in refining local development for future projects.
+Second-year Computer Science student building toward systems that hold up under scrutiny — coursework, side projects, and community involvement all pointed the same direction. Hands-on with smart contract fundamentals through the Core Connect Bootcamp, cloud infrastructure through the AWS Skill Builder Group - Tempest, and active in Google Developer Groups.
 
 <br>
 
@@ -55,50 +56,30 @@ Second-year Computer Science student building toward systems that hold up under 
 
 ## Mission Log
 
-<table>
-<tr>
-<td width="100%">
+### Sentro Pilimon — Campus Announcement & Event Management Platform
+*Solo-built — architecture, backend, and frontend all handled independently.*
 
-**Sentro Pilimon** — Campus Announcement & Event Management Platform
-<br><sub>Solo-built — architecture, backend, and frontend all handled independently.</sub>
+- **Problem:** Campus announcements and events were scattered across disconnected channels with no unified discovery, RSVP tracking, or role-based moderation.
+- **Solution:** Built a full platform end-to-end: public bulletin board, channel following, personalized feeds, RSVP + QR check-in, and role-based dashboards spanning student, staff, officer, moderator, and admin roles — backed by email workflows and analytics.
+- **Stack:** `Next.js` · `Supabase` · `Resend` · `PostHog`
 
-| | |
-|---|---|
-| **Problem** | Campus announcements and events were scattered across disconnected channels with no unified discovery, RSVP tracking, or role-based moderation. |
-| **Solution** | Built a full platform end-to-end: public bulletin board, channel following, personalized feeds, RSVP + QR check-in, and role-based dashboards spanning student, staff, officer, moderator, and admin roles — backed by email workflows and analytics. |
-| **Stack** | `Next.js` · `Supabase` · `Resend` · `PostHog` |
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+### PLMun Connect — Event & Org Management Platform
 
-**PLMun Connect** — Event & Org Management Platform
+- **Problem:** Students had no centralized way to discover campus events or organizations.
+- **Solution:** Co-architected and built a full event/org platform for a Web Technologies project, owning front-end structure and UI implementation.
+- **Stack:** `HTML` · `CSS` · `JavaScript`
+- **Link:** [matthew-act546.github.io/event-planner-orgs-plmun](https://matthew-act546.github.io/event-planner-orgs-plmun/)
 
-| | |
-|---|---|
-| **Problem** | Students had no centralized way to discover campus events or organizations. |
-| **Solution** | Co-architected and built a full event/org platform for a Web Technologies project, owning front-end structure and UI implementation. |
-| **Stack** | `HTML` · `CSS` · `JavaScript` |
-| **Link** | [matthew-act546.github.io/event-planner-orgs-plmun](https://matthew-act546.github.io/event-planner-orgs-plmun/) |
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+### CoreConnectBootcamp_Feb8_Makati — Smart Contract Fundamentals
 
-**CoreConnectBootcamp_Feb8_Makati** — Smart Contract Fundamentals
-
-| | |
-|---|---|
-| **Context** | Cohort work from the Core Connect Bootcamp, forked from the official curriculum repo. |
-| **Focus** | Smart contract fundamentals — Solidity basics, ERC-20/ERC-721 tokens, transaction submission. Not an active build right now, but the foundation is there. |
-| **Stack** | `Solidity` · `Hardhat` · `TypeScript` |
-| **Source** | [CoreConnectBootcampPH/core-bootcamp](https://github.com/CoreConnectBootcampPH/core-bootcamp) |
-
-</td>
-</tr>
-</table>
+- **Context:** Cohort work from the Core Connect Bootcamp, forked from the official curriculum repo.
+- **Focus:** Smart contract fundamentals — Solidity basics, ERC-20/ERC-721 tokens, transaction submission. Not an active build right now, but the foundation is there.
+- **Stack:** `Solidity` · `Hardhat` · `TypeScript`
+- **Source:** [CoreConnectBootcampPH/core-bootcamp](https://github.com/CoreConnectBootcampPH/core-bootcamp)
 
 <br>
 
