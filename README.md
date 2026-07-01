@@ -30,7 +30,7 @@ Second-year Computer Science student building toward systems that hold up under 
 
 ## Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=6E7BFF" />
