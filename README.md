@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6E7BFF&center=true&vCenter=true&width=650&lines=Architecting+systems%2C+not+just+code.;Strategy+over+noise.;Building+in+silence.+Shipping+with+precision.+See it through the end." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=6E7BFF&center=true&vCenter=true&width=650&lines=Architecting+systems%2C+not+just+code.;Strategy+over+noise.;Building+in+silence.+Shipping+with+precision.+See+it+through+the+end." alt="Typing SVG" />
 
 </div>
 
