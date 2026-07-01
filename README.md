@@ -20,7 +20,7 @@ definitelynotlaw
 > status    : compiling...
 ```
 
-<br style="justify">
+<br>
 
 ## Overview
 
@@ -28,7 +28,7 @@ Second-year Computer Science student building toward systems that hold up under 
 
 <br>
 
-Stack
+## Stack
 
 <div align="center">
 
