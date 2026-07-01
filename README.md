@@ -28,32 +28,41 @@ Second-year Computer Science student building toward systems that hold up under 
 
 <br>
 
-## Stack
+Stack
 
-<div align="left">
-
-**Languages**
-
+<div align="center">
+Languages
+  
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=6E7BFF" />
 
-**Frontend**
+Frontend
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=6E7BFF" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=6E7BFF" />
 
-**Infrastructure**
+Backend & Services
+
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=6E7BFF" />
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=6E7BFF" />
+<img src="https://img.shields.io/badge/Sentry-000000?style=for-the-badge&logo=sentry&logoColor=6E7BFF" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=6E7BFF" />
+<img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=6E7BFF" />
+
+Infrastructure
 
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=6E7BFF" />
 
 </div>
+
 
 <br>
 
