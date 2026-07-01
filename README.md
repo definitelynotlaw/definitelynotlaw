@@ -7,11 +7,11 @@
 <div align="center">
 
 ```
-whoami
+definitelynotlaw
 ```
 ```
 > Law
-> role      : BS Computer Science, PLMun (Year 2)
+> role      : 3rd year BS Computer Science, PLMun
 > mode      : systems-first, minimal-noise
 > currently : mapping curriculum as a dependency graph
 > status    : compiling...
@@ -23,7 +23,7 @@ whoami
 
 ## Overview
 
-Second-year Computer Science student building toward systems that hold up under scrutiny — coursework, side projects, and community involvement all pointed the same direction. Hands-on with smart contract fundamentals through the Core Connect Bootcamp, cloud infrastructure through the AWS Skill Builder Group - Tempest, and active in Google Developer Groups.
+Second-year Computer Science student building toward systems that hold up under scrutiny — coursework, side projects, and community involvement all pointed the same direction. Hands-on with smart contract fundamentals through the Core Connect Bootcamp, cloud infrastructure through the AWS Skill Builder Group - Tempest, and active in refining local development for future projects.
 
 <br>
 
