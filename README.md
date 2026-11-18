@@ -50,6 +50,7 @@ Frontend
 
 Backend & Services
 
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=6E7BFF" />
 <img src="https://img.shields.io/badge/Sentry-000000?style=for-the-badge&logo=sentry&logoColor=6E7BFF" />
